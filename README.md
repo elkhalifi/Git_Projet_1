@@ -1,4 +1,4 @@
-#formation-git
+# formation-git
 
 ## Titre niveau 2
 
